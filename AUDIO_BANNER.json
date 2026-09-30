@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "interval": 6,
+  "books": [
+    {
+      "title": "Mon premier livre audio",
+      "author": "Nom de l'auteur",
+      "description": "Une présentation courte du livre audio.",
+      "cover": "https://irnam2.github.io/Iri-Facebook-Videos-Backup/images/livre1.jpg",
+      "url": "https://ton-site.com/livre1",
+      "buttonText": "Découvrir le livre"
+    },
+    {
+      "title": "Mon deuxième livre audio",
+      "author": "Nom de l'auteur",
+      "description": "Découvrez ce deuxième livre audio.",
+      "cover": "https://irnam2.github.io/Iri-Facebook-Videos-Backup/images/livre2.jpg",
+      "url": "https://ton-site.com/livre2",
+      "buttonText": "Écouter"
+    }
+  ]
+}
