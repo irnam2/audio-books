@@ -3,18 +3,18 @@
   "interval": 6,
   "books": [
     {
-      "title": "Mon premier livre audio",
-      "author": "Nom de l'auteur",
-      "description": "Une présentation courte du livre audio.",
-      "cover": "https://irnam2.github.io/Iri-Facebook-Videos-Backup/images/livre1.jpg",
+      "title": "Je vais te détruire",
+      "author": "Linwood Barclay",
+      "description": "États-Unis, de nos jours. Rien ne prédisposait Richard Boyle à devenir le héros de sa petite ville du fin fond de l'état de New York. Professeur de littérature au lycée, Richard s'est interposé pour empêcher un ancien élève de faire exploser le bahut. Certes, il n'a pas réussi à sauver l'élève, qui s'est fait sauter accidentellement, mais il est parvenu à l'éloigner suffisamment pour sauver tout le reste de l'école. Acclamé en héros, Richard reste traumatisé et garde de cet échec à sauver l'ado un souvenir amer. Sans compter que cette célébrité toute neuve lui attire beaucoup de problèmes... C'est bien connu, l'enfer est pavé de bonnes intentions, et voilà bientôt ce charmant prof, a priori sans histoires, pris dans la toile d'un maître chanteur déterminé à détruire sa réputation, sa carrière et sa famille. Accusations sordides, menaces terrifiantes et secrets mortels... Lui qui a sauvé une école, arrivera-t-il à sauver sa famille ? Dans un monde fracturé et gangréné par la violence, quel prix faut-il payer pour une bonne action ?",
+      "cover": "https://irnam2.github.io/audio-books/images/livre1.jpg",
       "url": "https://ton-site.com/livre1",
       "buttonText": "Découvrir le livre"
     },
     {
-      "title": "Mon deuxième livre audio",
-      "author": "Nom de l'auteur",
-      "description": "Découvrez ce deuxième livre audio.",
-      "cover": "https://irnam2.github.io/Iri-Facebook-Videos-Backup/images/livre2.jpg",
+      "title": "Au secours, je vais être papa - Le guide du père débutant",
+      "author": "Stefan Liptal",
+      "description": "Devenir papa : comment vous préparer parfaitement au plus beau changement de votre vie grâce au guide ultime du futur papa - Avec de nombreux conseils pratiques Une nouvelle vie est en train de naître dans le ventre de votre partenaire et vous êtes très heureux de devenir père ? Mais à côté de cette joie débordante vous ressentez aussi de la peur, de l'incertitude et de la confusion ? Vous avez besoin d'un soutien fiable pour toutes les questions, les besoins et les soucis d'un futur papa ? Alors, ce guide ne vous laissera pas tomber et vous préparera de manière compétente à ce qui vous attend maintenant ! Car ne vous inquiétez pas : c'est le cas de la plupart des hommes et, qu'il s'agisse de surmenage émotionnel ou de problèmes de changement de couches, vous trouverez dans ce livre des réponses immédiatement applicables à toutes les questions que vous n'oseriez peut-être pas poser ailleurs. Des informations soigneusement compilées vous permettront de comprendre facilement tout ce que vous devez savoir sur le développement physique de la mère et de l'enfant. Grâce à de nombreux conseils et astuces vous pourrez aisément relever des défis tels que le réaménagement de l'appartement ou la nouvelle répartition des rôles et vous apprendrez à vous occuper de votre nouveau membre de la famille dans la joie et la simplicité. Devenez un super-papa en un temps record ! Ce livre vous enlève des soucis concrets, répond aux questions ouvertes et vous prépare parfaitement au défi passionnant de la paternité. Ainsi, vous ne perdrez jamais le fil et pourrez vous lancer, l'esprit clair, dans ce qui est sans doute la plus belle aventure du monde. Alors, procurez-vous dès maintenant votre coach personnel pour devenir un papa fabuleux et posez la première pierre d'une vie de famille heureuse et harmonieuse !",
+      "cover": "https://irnam2.github.io/audio-books/images/livre2.jpg",
       "url": "https://ton-site.com/livre2",
       "buttonText": "Écouter"
     }
